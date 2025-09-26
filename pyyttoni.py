@@ -9,3 +9,4 @@ print("Hei, lisään tähän tavaraa lol!!!!!!!!!!!!!!!!")
 
 
 print("Lisää koodia tehtävän 1#")
+print("moi")
