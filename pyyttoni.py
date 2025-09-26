@@ -1,1 +1,8 @@
-print("Moi)
+print("Moi")
+
+
+print("Terve")
+
+
+
+print("Hei")
